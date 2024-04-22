@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FizzBuzz
+comment0.text=\r\n\ imprimir\ numeros\ del\ 1\ al\ 100\r\n\ si\ es\ multiplo\ de\ 3\ imprimira\ fizz\r\n\ si\ es\ multiplo\ de\ 5\ imprimira\ buzz\r\n\ si\ es\ multiplo\ de\ 3\ y\ 5\ imprimira\ fizzBuzz\r\n
+comment1.params=posicion
+comment1.target=void\ imprimirFizzBuzz(int)
+numComments=2

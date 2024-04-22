@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment1.params=posicion
+comment1.target=int\ mostrarFibonacci(int)
+comment2.params=posicion
+comment2.target=int\ mostrar(int)
+numComments=3
