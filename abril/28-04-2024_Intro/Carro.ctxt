@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Carro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Carro\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=capacidad
+comment1.target=Carro(int)
+comment2.params=
+comment2.target=int\ getCapacidad()
+comment3.params=capacidad
+comment3.target=void\ setCapacidad(int)
+comment4.params=
+comment4.target=boolean\ getLleno()
+comment5.params=
+comment5.target=int\ getBasuraEntregada()
+comment6.params=
+comment6.target=int\ getBasuraActual()
+comment7.params=cantidadBasura
+comment7.target=java.lang.String\ cargar(int)
+comment8.params=botadero
+comment8.target=java.lang.String\ entregar(Botadero)
+numComments=9

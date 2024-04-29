@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NumerosAmigos
+comment0.text=\r\n\ Dos\ n\u00FAmeros\ amigos\ son\ dos\ n\u00FAmeros\ enteros\ positivos\ distintos\ tales\ que\ \r\n\ la\ suma\ de\ los\ divisores\ propios\ de\ cada\ uno\ es\ igual\ al\ otro.\ \r\n\ Los\ divisores\ propios\ de\ un\ n\u00FAmero\ incluyen\ la\ unidad\ pero\ no\ \r\n\ al\ propio\ n\u00FAmero.\ Por\ ejemplo,\ los\ divisores\ propios\ de\ 220\ \r\n\ son\ 1,\ 2,\ 4,\ 5,\ 10,\ 11,\ 20,\ 22,\ 44,\ 55\ y\ 110.\ La\ suma\ de\ estos\ \r\n\ n\u00FAmeros\ equivale\ a\ 284.\ A\ su\ vez,\ los\ divisores\ \r\n\ propios\ de\ 284\ son\ 1,\ 2,\ 4,\ 71\ y\ 142.\ Su\ suma\ equivale\ a\ 220.\ \r\n\ Por\ tanto,\ 220\ y\ 284\ son\ amigos.\r\n
+comment1.params=a\ b
+comment1.target=NumerosAmigos(int,\ int)
+comment2.params=array
+comment2.target=NumerosAmigos(int[])
+comment3.params=
+comment3.target=boolean\ sonAmigos()
+comment4.params=
+comment4.target=void\ sonAmigosArray()
+comment5.params=num
+comment5.target=int\ sumarDivisores(int)
+numComments=6

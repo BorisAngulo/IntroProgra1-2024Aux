@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Botadero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Botadero\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=abierto
+comment1.target=Botadero(boolean)
+comment2.params=
+comment2.target=boolean\ getAbierto()
+comment3.params=abierto
+comment3.target=void\ setAbierto(boolean)
+numComments=4
