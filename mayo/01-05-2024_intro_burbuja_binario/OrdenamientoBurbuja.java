@@ -11,7 +11,13 @@ public class OrdenamientoBurbuja
     public OrdenamientoBurbuja(int[] array){
         this.array = array;
     }
-
+    public String toString(){
+        String res="[";
+        for(int arr: array){
+            res += arr+",";
+        }
+        return res+"]";
+    }
     public int[] ordenar(){
         int aux;
         for(int i = 0; i < array.length - 1; i++){

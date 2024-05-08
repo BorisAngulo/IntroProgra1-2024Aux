@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Region
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Region\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=poblacion\ infectados
+comment1.target=Region(int,\ int)
+comment2.params=
+comment2.target=Region()
+comment3.params=
+comment3.target=int\ getInfectados()
+comment4.params=
+comment4.target=int\ getPoblacion()
+comment5.params=
+comment5.target=char\ getColor()
+comment6.params=
+comment6.target=boolean\ getRegion()
+comment7.params=infectados
+comment7.target=void\ setInfectados(int)
+comment8.params=poblacion
+comment8.target=void\ setPoblacion(int)
+comment9.params=color
+comment9.target=void\ setColor(char)
+numComments=10

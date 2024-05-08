@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Examen2_2021
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Examen2_2021\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=v\ texto
+comment1.target=java.lang.String\ quitar(char,\ java.lang.String)
+comment1.text=\r\n\ Analizar\ e\ implementar\ la\ funcionalidad\ necesaria\ para;\ dado\ un\ texto,\r\n\ eliminar\ todas\ aquellas\ palabras\ que\ tienen\ cualquier\ otra\ vocal\ diferente\r\n\ a\ v,\ la\ intencionalidad\ es\ quedarse\ con\ palabras\ que\ solo\ tienen\ la\ vocal\r\n\ v,\ de\ tal\ manera\ de\ quedarse\ con\ las\ palabras\ que\ formarian\ un\ Lipograma\r\n\ de\ v\r\n\r\n\ @param\ v\ es\ una\ vocal\r\n\ @param\ texto\ un\ texto\ \r\n\ @return\ \ \ \ palabras\ del\ texto\ que\ solo\ contengan\ la\ vocal\ v\r\n
+comment2.params=texto
+comment2.target=boolean\ esLipograma(java.lang.String)
+comment3.params=texto
+comment3.target=java.lang.String\ obtenerLipograma(java.lang.String)
+comment3.text=\r\n\ Analizar\ e\ implementar\ la\ funcionalidad\ decesaria\ para;\ dado\ un\ texto,\ \r\n\ seleccionar\ y\ clasificar\ las\ palabras\ que\ tienen\ solo\ una\ vocal\ y\ \r\n\ desechar\ aquellas\ que\ tienen\ mas\ de\ una\ vocal,\ sobre\ la\ base\ de\ esta\ \r\n\ clasificacion\ se\ pide\ formar\ el\ texto\ de\ mayor\ cantidad\ de\ palabras\ \r\n\ que\ sea\ un\ Lipograma.\r\n\ \r\n\ Recuerda\ que\ se\ tienen\ 5\ vocales\ por\ que\ el\ analisis\ de\ un\ texto\ puede\r\n\ a\ lo\ sumo\ tener\ 5\ grupos\ de\ clasificacion\:\ las\ palabras\ que\ tiene\r\n\ solo\ la\ 'a',\ las\ palabras\ que\ tiene\ solo\ la\ 'e',\ las\ palabras\ que\ tiene\r\n\ solo\ la\ 'i',\ las\ palabras\ que\ tiene\ solo\ la\ 'o'\ y\ las\ palabras\ que\ tiene\r\n\ solo\ la\ 'u'.\ Palabras\ que\ tienen\ mas\ de\ una\ vocal\ diferente\ no\ estan\ \r\n\ en\ algun\ grupo\ de\ clasificacion.\r\n
+numComments=4
