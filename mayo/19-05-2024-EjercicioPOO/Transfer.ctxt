@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Transfer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Transfer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=vehiculos
+comment1.target=Transfer(Vehiculo[])
+comment2.params=
+comment2.target=double\ registrarGanancias()
+comment2.text=\r\n\ @method\ registra\ las\ ganancias\ del\ dia\ totales\ de\ todos\ los\ vehiculos\r\n\ @return\ retorna\ la\ ganancia\ total\ en\ bolivianos\r\n
+comment3.params=x\ y
+comment3.target=java.util.ArrayList\ llevaRuta(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ @method\ metodo\ para\ saber\ que\ vehiculos\ tienen\ una\ ruta\ con\r\n\ lugar\ X\ a\ un\ lugar\ Y\r\n\ @param\ x\ lugar\ inicial\r\n\ @param\ y\ lugar\ final.\r\n\ @return\ lista\ de\ vehiculos\ que\ cumplen\ con\ esa\ ruta\r\n
+numComments=4

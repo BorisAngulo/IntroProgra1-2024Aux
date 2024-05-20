@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ De\ los\ buses\ se\ conoce\ el\ nombre\r\n\ de\ la\ linea,\ la\ ruta,\ el\ costo\ del\ pasaje\ b\u00B4asico\ y\ la\ recaudacin\ del\ dia.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ pasajeBasico\ ruta
+comment1.target=Bus(java.lang.String,\ double,\ java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String[]\ getRuta()
+comment3.params=
+comment3.target=void\ recogerPasajero()
+comment4.params=x\ y
+comment4.target=boolean\ llevaRuta(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ @method\ metodo\ para\ saber\ si\ el\ bus\ lleva\ de\ un\ lugar\ X\ a\ un\ lugar\ Y\r\n\ @param\ x\ lugar\ inicial\r\n\ @param\ y\ lugar\ final.\r\n
+numComments=5

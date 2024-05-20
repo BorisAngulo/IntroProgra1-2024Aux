@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Taxi
+comment0.text=\r\n\ Los\ t\u00B4axis\ tienen\ \r\n\ un\ nombre\ que\ los\ identifica\ (\ por\ ejemplo\:\ Rojo\ 100),\ una\ ubicacin\ actual,\r\n\ el\ costo\ de\ pasaje\ b\u00B4asico,\ el\ costo\ adicional\ por\ persona,\ el\ estado\ \r\n\ (ocupado/libre)\ y\ la\ recaudacin\ del\ dia.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ pasajeBasico\ ubicacionActual\ costoAdicionalPersona\ estado
+comment1.target=Taxi(java.lang.String,\ double,\ java.lang.String,\ double,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getUbicacionActual()
+comment3.params=
+comment3.target=double\ getCostoAdicionalPersona()
+comment4.params=
+comment4.target=boolean\ estado()
+comment5.params=personas
+comment5.target=void\ recogerPasajero(int)
+comment6.params=
+comment6.target=void\ dejarPasajero()
+comment7.params=x\ y
+comment7.target=boolean\ llevaRuta(java.lang.String,\ java.lang.String)
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Vehiculo
+comment0.text=\r\n\ una\ empresa\ de\ transporte\ p\u00B4ublico,\ que\ tiene\ una\ flota\ \r\n\ de\ t\u00B4axis\ y\ una\ variedad\ de\ l\u00B4\u0131neas\ de\ buses.\ Los\ t\u00B4axis\ tienen\ \r\n\ un\ nombre\ que\ los\ identifica\ (\ por\ ejemplo\:\ Rojo\ 100),\ una\ ubicacin\ actual,\r\n\ el\ costo\ de\ pasaje\ b\u00B4asico,\ el\ costo\ adicional\ por\ persona,\ el\ estado\ \r\n\ (ocupado/libre)\ y\ la\ recaudacin\ del\ dia.\ De\ los\ buses\ se\ conoce\ el\ nombre\r\n\ de\ la\ linea,\ la\ ruta,\ el\ costo\ del\ pasaje\ b\u00B4asico\ y\ la\ recaudacin\ del\ dia.\r\n\ Los\ buses\ debido\ a\ que\ se\ tiene\ un\ costo\ \u00B4unico\ se\ recoge\ pasajeros\ de\ \r\n\ uno\ en\ uno,\ pero\ los\ t\u00B4axis\ pueden\ recoger\ a\ uno\ o\ a\ muchos\ pasajeros.\ \r\n\ Los\ veh\u00B4\u0131culos\ deber\u00B4\u0131an\ poder\ indicar\ si\ pueden\ llevar\ a\ un\ pasajero\ de\ X\ a\ Y.\r\n\ La\ ruta\ se\ considera\ como\ una\ secuencia\ ordenada\ de\ lugares\ que\ se\ puede\ visitar.\r\n\ La\ empresa\ deseaautomatizar\ algunos\ de\ sus\ procesos,\ \r\n\ mismos\ que\ se\ detallan\ a\ continuacin\:\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ pasajeBasico
+comment1.target=Vehiculo(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=double\ getPasajeBasico()
+comment4.params=
+comment4.target=double\ getRecaudacionDia()
+comment5.params=recaudacion
+comment5.target=void\ addRecaudacion(double)
+comment6.params=x\ y
+comment6.target=boolean\ llevaRuta(java.lang.String,\ java.lang.String)
+numComments=7
